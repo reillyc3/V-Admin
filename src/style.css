@@ -1,16 +1,19 @@
+
+
 #about{
-    padding-top: 4em;
-    padding-bottom: 3em;
+    padding-top: 3em;
+
+   
 }
 
 #price{
-    padding-top: 4em; 
-    padding-bottom: 3em; 
+    padding-top: 3em; 
+ 
 }
 
 #contact{
-    padding-top: 4em; 
-    padding-bottom: 3em; 
+    padding-top: 3em; 
+
 }
 
 #name{
@@ -19,6 +22,7 @@
 
 .whatwedo{
    margin-inline-start: .25em;
+  
 }
 
 hr {
@@ -32,7 +36,7 @@ hr {
     margin-bottom: 2em;
     }
 
-ul{
+ul {
     list-style-type: circle;
-    
+   
 }
